@@ -1,2 +1,2 @@
 # Academia-.NET-ATOS-Exercicios
-Repositorio destinado para receber o exercicíios passados em aula na academia.
+Repositório destinado para receber o exercicíios passados em aula na academia.
