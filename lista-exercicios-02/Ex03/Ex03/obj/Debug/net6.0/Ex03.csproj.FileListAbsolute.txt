@@ -1,0 +1,15 @@
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\bin\Debug\net6.0\Ex03.exe
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\bin\Debug\net6.0\Ex03.deps.json
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\bin\Debug\net6.0\Ex03.runtimeconfig.json
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\bin\Debug\net6.0\Ex03.dll
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\bin\Debug\net6.0\Ex03.pdb
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.csproj.AssemblyReference.cache
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfoInputs.cache
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfo.cs
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.dll
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\refint\Ex03.dll
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.pdb
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\Ex03.genruntimeconfig.cache
+C:\Users\STADS\source\repos\Academia-.NET-ATOS-Exercicios\lista-exercicios-02\Ex03\Ex03\obj\Debug\net6.0\ref\Ex03.dll
