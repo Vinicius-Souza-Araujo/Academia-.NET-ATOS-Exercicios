@@ -11,7 +11,7 @@
 
             for (int i = 0; i < 20; i++)
             {
-                Console.Write($"Digite o {i + 1}º número: ");
+                Console.Write("Digite o " +( i + 1 ) + "º número: ");
                 n = int.Parse(Console.ReadLine());
 
                 if (n % 2 == 0)
