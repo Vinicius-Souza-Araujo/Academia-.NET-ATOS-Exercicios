@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            double[] vetor = new double[30];
+            double[] vetor = new double[5];
 
             for (int i = 0; i < vetor.Length; i++)
             {
